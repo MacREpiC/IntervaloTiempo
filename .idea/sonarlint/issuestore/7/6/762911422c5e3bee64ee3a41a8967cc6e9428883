@@ -1,0 +1,11 @@
+
+k
+java:S1192"ODefine a constant instead of duplicating this literal "Dime el aÃ±o: " 3 times.(ãà¯u8Š¥°¾Æ1
+j
+java:S1192!"NDefine a constant instead of duplicating this literal "Dime el mes: " 3 times.(°ğj8Š¥°¾Æ1
+N
+java:S1144&",Remove this unused private "leerMes" method.(£Â•˜ùÿÿÿÿ8™¥°¾Æ1
+H
+java:S11448"+Remove this unused private "leeDia" method.(ß´œµ8™¥°¾Æ1
+T
+java:S1144="2Remove this unused private "leerIntervalo" method.(æÌ¼Àøÿÿÿÿ8™¥°¾Æ1
